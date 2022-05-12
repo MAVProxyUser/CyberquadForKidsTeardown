@@ -16,6 +16,8 @@ Tesla (Radio Flyer) Cyberquad For Kids Teardown notes.<br>
    * [Radio Flyer Part Numbers](#radio-flyer-part-numbers)
 * [Un-official Repair](#un-official-repair)
    * [Equivalent Parts](#equivalent-parts)
+* [PCB Photos](#pcb-photos)
+* [Modifications](#modifications)
 
 # Marketing
 ## Radio Flyer Tesla Cyberquad for Kids
@@ -50,3 +52,37 @@ Motor:<br>
 Razor part number W25143060030(?) <br>
 https://www.walmart.com/ip/Razor-W25143060030-Dirt-Quad-Electric-Motor-W-Screws-Genuine-Part/985193081<br>
 https://razor.scooterc.com/w25143060030-dirt-quad-motor-with-screws-350w.html<br>
+
+# PCB Photos
+
+You've first got to remove the seat.<br>
+![SeatAccessScrews.jpg](https://github.com/MAVProxyUser/CyberquadForKidsTeardown/blob/main/teardown/SeatAccessScrews.jpg)<br>
+![SeatRemoved.jpg](https://github.com/MAVProxyUser/CyberquadForKidsTeardown/blob/main/teardown/SeatRemoved.jpg)<br>
+![UnderSeatView.jpg](https://github.com/MAVProxyUser/CyberquadForKidsTeardown/blob/main/teardown/UnderSeatView.jpg)<br>
+
+Following the wires is easy in most cases.<br>
+![MotorWires.jpg](https://github.com/MAVProxyUser/CyberquadForKidsTeardown/blob/main/teardown/MotorWires.jpg)<br>
+
+4 screws to remove the PCB, 4 more to open it.<br>
+![PCBRemovalScrewsX4.jpg](https://github.com/MAVProxyUser/CyberquadForKidsTeardown/blob/main/teardown/PCBRemovalScrewsX4.jpg)<br>
+![PCBRemoved.jpg](https://github.com/MAVProxyUser/CyberquadForKidsTeardown/blob/main/teardown/PCBRemoved.jpg)<br>
+![PCBEntryTorx10.jpg](https://github.com/MAVProxyUser/CyberquadForKidsTeardown/blob/main/teardown/PCBEntryTorx10.jpg)<br>
+
+First thing you see is a debug header of some sort.<br>
+![PCBOpened.jpg](https://github.com/MAVProxyUser/CyberquadForKidsTeardown/blob/main/teardown/PCBOpened.jpg)<br>
+![DebugHeaderTopView.jpg](https://github.com/MAVProxyUser/CyberquadForKidsTeardown/blob/main/teardown/DebugHeaderTopView.jpg)<br>
+![PCBRelays.jpg](https://github.com/MAVProxyUser/CyberquadForKidsTeardown/blob/main/teardown/PCBRelays.jpg)<br>
+
+A few more screws hold the PCB to the bottom of it's case.<br>
+![DebugHeaderBottomView.jpg](https://github.com/MAVProxyUser/CyberquadForKidsTeardown/blob/main/teardown/DebugHeaderBottomView.jpg)<br>
+![PCBBottomView.jpg](https://github.com/MAVProxyUser/CyberquadForKidsTeardown/blob/main/teardown/PCBBottomView.jpg)<br>
+![PCBBottomViewStraight.jpg](https://github.com/MAVProxyUser/CyberquadForKidsTeardown/blob/main/teardown/PCBBottomViewStraight.jpg)<br>
+
+# Modifications
+
+[![The World's FASTEST TESLA Cyberquad!](http://img.youtube.com/vi/Y5s0i21SOnI/0.jpg)](https://www.youtube.com/watch?v=Y5s0i21SOnI)<br>
+Upgraded battery 72 volt, 63 amp hour<br>
+3000 watt 72 volt motor controller<br>
+72 volt motor<br>
+Upgraded rear hydraulic disc brake (from ebay)<br>
+Rear shock from D&M<br>
