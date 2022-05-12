@@ -67,6 +67,8 @@ Following the wires is easy in most cases.<br>
 ![PCBRemoved.jpg](https://github.com/MAVProxyUser/CyberquadForKidsTeardown/blob/main/teardown/PCBRemoved.jpg)<br>
 ![PCBEntryTorx10.jpg](https://github.com/MAVProxyUser/CyberquadForKidsTeardown/blob/main/teardown/PCBEntryTorx10.jpg)<br>
 
+WARNING: Geting in is hard! You have to pry until the silicon seals break. They are very tight! Stick with it, they will pop eventually.<br>
+
 First thing you see is a debug header of some sort.<br>
 ![PCBOpened.jpg](https://github.com/MAVProxyUser/CyberquadForKidsTeardown/blob/main/teardown/PCBOpened.jpg)<br>
 ![DebugHeaderTopView.jpg](https://github.com/MAVProxyUser/CyberquadForKidsTeardown/blob/main/teardown/DebugHeaderTopView.jpg)<br>
