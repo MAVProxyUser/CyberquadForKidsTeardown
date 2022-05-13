@@ -83,7 +83,6 @@ A few more screws hold the PCB to the bottom of it's case.<br>
 
 [![The World's FASTEST TESLA Cyberquad!](http://img.youtube.com/vi/Y5s0i21SOnI/0.jpg)](https://www.youtube.com/watch?v=Y5s0i21SOnI)<br>
 Upgraded battery 72 volt, 63 amp hour<br>
-3000 watt 72 volt motor controller<br>
-72 volt motor<br>
-Upgraded rear hydraulic disc brake (from ebay)<br>
-Rear shock from [DNM](https://www.dnmshock.com)<br>
+[Vevor](https://www.vevor.com/brushless-dc-motor-c_11227/72v-3000w-bldc-motor-kit-with-brushless-controller-electric-bicycle-scooter-p_010187167720) 3000 watt 72 volt controller & motor<br>
+[Zoom HB875](https://www.ebay.com/itm/224975123928) hydraulic disc brake "from ebay"<br>
+["Burner" RCP 2](https://www.aliexpress.com/item/2251832547229897.html), Rear shock from [DNM](https://www.dnmshock.com/products.php?func=p_detail&p_id=22&pc_parent=12)<br>
