@@ -86,4 +86,4 @@ Upgraded battery 72 volt, 63 amp hour<br>
 3000 watt 72 volt motor controller<br>
 72 volt motor<br>
 Upgraded rear hydraulic disc brake (from ebay)<br>
-Rear shock from D&M<br>
+Rear shock from [DNM](https://www.dnmshock.com)<br>
