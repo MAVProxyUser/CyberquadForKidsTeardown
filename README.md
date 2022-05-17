@@ -58,7 +58,7 @@ https://razor.scooterc.com/w25143060030-dirt-quad-motor-with-screws-350w.html<br
 # Wiring Diagram
 ## vehicle rear
 2 - wire (14awg) black, red -> black, red (power in from battery)<br>
-2 - wire      ""            -> black, red (out to motor power)<br>
+2 - wire                    -> black, red (out to motor power)<br>
 
 3 - wire (??awg) red, white, black -> red, white, black (tail light)<br>
 2 - wire         white, black -> black, black (motor signal)<br> 
@@ -67,9 +67,9 @@ https://razor.scooterc.com/w25143060030-dirt-quad-motor-with-screws-350w.html<br
 
 ## vehicle front
 2 - wire (??awg) yellow, red -> yellow, red (fwd, reverse - relay control, not mandatory, default fwd)<br>
-2 - wire (??awg) yellow, black -> yellow, black (front light)<br>
-3 - wire (??awg) black, red, blue -> black, red, blue (brake - mandatory)<br>
-3 - wire (??awg) green, red, blue -> green, red, blue (throttle)<br>
+2 - wire         yellow, black -> yellow, black (front light)<br>
+3 - wire         black, red, blue -> black, red, blue (brake - mandatory)<br>
+3 - wire         green, red, blue -> green, red, blue (throttle)<br>
 
 # PCB Photos
 
