@@ -58,7 +58,7 @@ https://razor.scooterc.com/w25143060030-dirt-quad-motor-with-screws-350w.html<br
 # Wiring Diagram
 ## vehicle rear
 2 - wire         black, red -> black, red (14awg power in from battery)<br>
-2 - wire                    -> black, red (14awg power out to motor)<br>
+2 - wire         black, red -> black, red (14awg power out to motor)<br>
 
 3 - wire         red, white, black -> red, white, black (tail light)<br>
 2 - wire         white, black -> black, black (motor signal)<br> 
