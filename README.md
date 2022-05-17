@@ -15,6 +15,9 @@ Tesla (Radio Flyer) Cyberquad For Kids Teardown notes.<br>
    * [Radio Flyer Part Numbers](#radio-flyer-part-numbers)
 * [Un-official Repair](#un-official-repair)
    * [Equivalent Parts](#equivalent-parts)
+* [Wiring Diagram](#wiring-diagram)
+   * [vehicle rear](#vehicle-rear)
+   * [vehicle front](#vehicle-front)
 * [PCB Photos](#pcb-photos)
 * [Modifications](#modifications)
 
@@ -51,6 +54,22 @@ Motor:<br>
 Razor part number W25143060030(?) <br>
 https://www.walmart.com/ip/Razor-W25143060030-Dirt-Quad-Electric-Motor-W-Screws-Genuine-Part/985193081<br>
 https://razor.scooterc.com/w25143060030-dirt-quad-motor-with-screws-350w.html<br>
+
+# Wiring Diagram
+## vehicle rear
+2 - wire (14awg) black, red -> black, red (power in from battery)<br>
+2 - wire      ""            -> black, red (out to motor power)<br>
+
+3 - wire (??awg) red, white, black -> red, white, black (tail light)<br>
+2 - wire         white, black -> black, black (motor signal)<br> 
+2 - wire         red, black -> red, black ( power switch)<br>
+2 - wire         red, blue -> red, blue (speed mode 1 or II)<br>
+
+## vehicle front
+2 - wire (??awg) yellow, red -> yellow, red (fwd, reverse - relay control, not mandatory, default fwd)<br>
+2 - wire (??awg) yellow, black -> yellow, black (front light)<br>
+3 - wire (??awg) black, red, blue -> black, red, blue (brake - mandatory)<br>
+3 - wire (??awg) green, red, blue -> green, red, blue (throttle)<br>
 
 # PCB Photos
 
