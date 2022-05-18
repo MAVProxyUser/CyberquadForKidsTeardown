@@ -63,7 +63,7 @@ https://razor.scooterc.com/w25143060030-dirt-quad-motor-with-screws-350w.html<br
 3 - wire         red, white, black -> red, white, black (tail light)<br>
 2 - wire         white, black -> black, black (motor signal)<br> 
 2 - wire         red, black -> red, black ( power switch)<br>
-2 - wire         red, blue -> red, blue (speed mode 1 or II)<br>
+2 - wire         red, blue -> red, blue (speed mode I or II)<br>
 
 ## vehicle front
 2 - wire         yellow, red -> yellow, red (fwd, reverse - relay control, not mandatory, default fwd)<br>
