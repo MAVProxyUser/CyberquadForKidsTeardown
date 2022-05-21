@@ -51,9 +51,9 @@ https://www.foxracing.com/product/youth-v1-matte-black-helmet/27735.html<br>
 # Un-official Repair
 ## Equivalent Parts
 Motor:<br>
-Razor part number W25143060030(?) <br>
-https://www.walmart.com/ip/Razor-W25143060030-Dirt-Quad-Electric-Motor-W-Screws-Genuine-Part/985193081<br>
-https://razor.scooterc.com/w25143060030-dirt-quad-motor-with-screws-350w.html<br>
+<includes internal temperature sensor, not found on Razor>
+<500watt>
+<temp sensor output is mandatory>
 
 # Wiring Diagram
 ## vehicle rear
